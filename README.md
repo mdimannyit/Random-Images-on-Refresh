@@ -1,3 +1,4 @@
+Random Images on Refresh
 # Winner Winner Chicken Dinner!
 ChickenDinner is a stupid little Jquery plugin that will randomly load images from a client-side array. See it in action at: [chickendinner.sosweetcreative.com](http://chickendinner.sosweetcreative.com)
 
